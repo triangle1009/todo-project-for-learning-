@@ -10,6 +10,9 @@
 - **資料庫**: MySQL
 - **套件管理**: npm + Composer
 
+### 主界面
+![主界面截圖](screenshot.png)
+
 ## 📁 專案結構
 ```
 todo-project/
