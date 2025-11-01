@@ -11,7 +11,7 @@
 - **套件管理**: npm + Composer
 
 ### 主界面
-![主界面截圖](screenshot.png)
+![主界面截圖](demo.gif)
 
 ## 📁 專案結構
 ```
